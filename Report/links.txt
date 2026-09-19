@@ -1,0 +1,28 @@
+please make captions for these images.
+
+https://embedwithcode.com/BB_Analysis/report/network.png
+https://embedwithcode.com/BB_Analysis/report/historam.png
+https://embedwithcode.com/BB_Analysis/report/Act_Analysis.png
+https://embedwithcode.com/BB_Analysis/report/Act_Plotting.png
+https://embedwithcode.com/BB_Analysis/report/Act_System_Of_Interest.png
+https://embedwithcode.com/BB_Analysis/report/BDD_System_Of_Interest.png
+https://embedwithcode.com/BB_Analysis/report/Instance_Data.png
+
+Absolutely. Based on the content of each figure, here are polished, report-ready captions:
+
+ 1. **Figure 1. Network topology and sensor positions.**\
+    Spatial distribution of sensor nodes within the defined network area, with the dashed circle representing the communication boundary.
+2. **Figure 2. Histogram of simulation results.**\
+    Distribution of the analyzed simulation values, showing the frequency of observations across the range from 0 to 1.
+3. **Figure 3. Activity diagram for BB-IO Analysis.**\
+    Activity model illustrating the flow of the BB-IO Analysis, including sensor configuration, execution of the Sol-BB system, calculation of performance measures, and generation of visualizations.
+4. **Figure 4. Activity diagram of the Plotting Module.**\
+    Activity model showing how input data and plotting parameters are passed to the visualization function to generate the specified plot.
+5. **Figure 5. Activity diagram of the Sol-BB system of interest.**\
+    Activity model showing the inputs to the Sol-BB system, including the number of sensors, communication radius, and number of events, and the resulting sensor positions, communication counts, received-event counts, average delay, and delays.
+6. **Figure 6. Block definition diagram of the BB Analysis system.**\
+    SysML block definition diagram showing the BB-IO Analysis, Sol-BB, and Plotting Module blocks, their properties and relationships, the performance requirement, and the available plot types.
+7. **Figure 7. BB-IO Analysis instance data.**\
+    Instance data showing the configured numbers of sensors, sensor radius, number of events, and corresponding average-delay values for the analyzed BB-IO Analysis configurations.
+
+ These can also be made **more concise and academic**, e.g., suitable for an IEEE-style paper or thesis, if that's the format you're using.
